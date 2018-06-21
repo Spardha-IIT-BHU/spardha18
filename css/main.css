@@ -1934,8 +1934,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     top: 0;
     line-height: 33px;
-    -webkit-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out;
 }
 
 .home-social i {
@@ -2960,7 +2958,6 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     background-size: auto 100%;
@@ -3635,5 +3632,6 @@ footer .row {
 .contact-label{
     margin-right: 1em;
 }
+
 
 /*# sourceMappingURL=main.css.map */
