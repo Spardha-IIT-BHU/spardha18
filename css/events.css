@@ -25,23 +25,23 @@
 
 #event-info li{
     line-height: 1.5em;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
-.tick li, .star li{
+.tick > li, .star > li{
     margin: 0;
-	padding: 0 0 36px 60px;
+	padding: 0 0 20px 30px;
 	list-style: none;
 	background-repeat: no-repeat;
 	background-position: left top;
-	background-size: 30px;
+	background-size: 20px;
 }
 
-.tick li {
+.tick > li {
 	background-image: url("../images/icons/tick.png");
 }
 
-.star li{
+.star > li{
     background-image: url("../images/icons/star.png");
 }
 
@@ -55,7 +55,7 @@
 }
 
 #eventcontact{
-    text-align: center;
+    text-align: center !important;
     background-image: url('../images/icons/eventcontact.png');
     border-radius: 0 0 5px 5px;
 }
@@ -112,7 +112,7 @@
     border: 1px solid transparent;
     padding: 5px;
     margin-top: 20px;
-    border-radius: 8px;
+    border-radius: 3px;
     
     background: rgba(242,246,248,1);
     background: -moz-linear-gradient(-45deg, rgba(242,246,248,1) 0%, rgba(216,225,231,1) 50%, rgba(181,198,208,1) 51%, rgba(224,239,249,1) 100%);

@@ -1,11 +1,50 @@
 {
     "event-heading": "tennis",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The rules of the International Tennis Federation as adopted from time to time by the All India Lawn Tennis Association shall apply, unless otherwise modiﬁed.",
 
+        "Each team must consist of players belonging to the same college.",
+        
+        "Tie Format: Best of three matches (2 singles + 1 doubles).",
+        
+        "Format of the matches will be — Singles-Doubles—Singles. The two singles matches mus be played by different players.",
+        
+        "In case a team wins the ﬁrst two matches in the tie, the third match will not be played.",
+
+        "The tournament will be conducted on a synthetic court and Wilson balls will be use throughout the tournament.",
+        
+        "All participants need to come in proper kit -shorts (no three-fourths, denim short, track etc. are allowed) and non-marking shoes. If any player does not come in proper kit th player won't be allowed to play the match.",
+        
+        "Due to inclement weather or other such contingencies, the organisers reserve the right t change the above rules without prior notice. For example, in case of rain delays, th matches can decided in a single set instead of best of 3 sets, to accommodate a tighte schedule.",
+        
+        "In case of any ambiguity, the organisers reserve the right to exercise their judgement.",
+        
+        "No college shall be allowed to enter more than one team in the competition except th home team. IIT Kanpur can have more than one team participating in the event.",
+        
+        "Teams are allowed to cheer their player but there should not be any hooting or jeerin against other team’s' players. Shouting in between the rallies is strictly not allowed.",
+        
+        "Teams are advised to report to the courts at least 15 minutes before their scheduled matc time for warming up and practice. In case a team is more than 20 minutes late from thei scheduled match time, the opponent team can claim a Walkover. Walkover decisions wil be up to the discretion of the chair umpire.",
+        
+        "In case of any discrepancy, chair umpire will have the ﬁnal call.",
+
+        "In case, 2 or more teams have same no. of points at the end of the league stage, the team that has conceded lesser no. of sets overall would move ahead. In case of a tie there, th number of games conceded overall would be considered.",
+        
+        "In case of a tie there, the number of points conceded would be considered. In case of a tie there, if there are  remaining teams, the winner of the match between the two in the league stage woul move ahead. In case of more than two teams , LUCKY DRAW would be used .",
+        
+        "Point would be replayed on the basis of ‘BALL-ON-COURT’ only if the ball cause an obstruction to the play or the player in the point in whatsoever way . No point woul be replayed unnecessarily if the ball entering the court caused no obstruction whatsoever.",
+
+        "The appeal for ‘BALL-ON-COURT’ must be done before the point ends. It won’t b awarded after the point ends . The discretion in awarding the same would be solely o the Chair Umpire.",
+        
+        "Foot—Faults will be observed . The discretion would again be in the hands of th Chair Umpire.",
+        
+        "Arguments with the Chair Umpire by the players or other people outside the cour regarding ANYTHING would NOT BE TOLERATED . The organizers reserve th RIGHT to DISQUALIFY a team if they feel the need to do so in this matter o unnecessary arguments .",
+        
+        "For men matches: The team strength should be minimum -3, maximum — 4 .<br/><ul><li> Tournament would be conducted on league cum knockout basis.<li> Each match would be of a Best of Three Tiebreak sets match.<li> The names of the players playing the Singles, Doubles and Reverse Singles matche would be noted down right at the beginning of each match .</ul>",
+        
+        "For women matches: The team strength would be minimum -2, maximum — 4 .<br/><ul><li> Tournament would be conducted on league cum knockout basis.<li> Each match would be a Best of Three MINI-SETS tie break match (ﬁrst to win 4 game with a difference of at least two or a tie break in case of 3-3) in the league stage . The semi-ﬁnals, and ﬁnal would be played in FULL SETS (6 games).<li>Nnames of the players playing the Singles, Doubles and Reverse Singles matche would be noted down right at the beginning of each match.</ul>" 
+    ],
+    
     "hall": [
         "A",
         "B",

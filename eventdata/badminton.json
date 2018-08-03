@@ -1,11 +1,26 @@
 {
     "event-heading": "badminton",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The tournament for men and women section will be conducted on the lines of Inter State Badminton Championship.",
 
+        "Number of players:<br/>Men: The number of players representing any college in a team can be a maximum of 5 members.<br/>Women: The number of players representing any college in a team can be a maximum of 3 members.",
+        
+        "The order of events shall be as follows:<br/>Men: Singles / Singles / Doubles / Singles / Doubles<br/>Women : Singles / Doubles / Singles",
+        
+        "Each set will be of 21 points and there will be 3 sets in a game.",
+        
+        "Players must wear neat and clean non—marking shoes with red sole while on court.",
+        
+        "Tie will be resolved by successively applying the following criteria:<br/><ol><li>Individual matches won/individual matches lost.<li>Games won by the team/games lost by the team.<li>Points for/Points against.",
+        
+        "The tally for all the matches played in the league ﬁxture will be considered.",
+        
+        "Any new rule or a change in rules will be informed to the teams by the event coordinators prior to the beginning of match. In any case, the decision of referee and the ofﬁcials shall be considered ﬁnal.",
+        
+        "In case of any discrepancy, the decision of referees shall be considered ﬁnal"
+    ],
+    
     "hall": [
         "A",
         "B",

@@ -1,11 +1,39 @@
 {
     "event-heading": "athletics",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The competition shall be conducted under the International Athletics Federatio rules as adopted from time to time by AFI, unless otherwise modiﬁed.",
 
+        "Each college will be entitled to enter not more than two competitors per event For relay races, not more than an entry of four with one reserve per event shall b accepted.",
+        
+        "An athlete is allowed to participate in a maximum of 3 events excluding relays As far as possible, changes, if any, should be intimated ﬁfteen minutes before th start of the event. Lots for lanes will be drawn as soon as the ﬁrst call is given.",
+        
+        "In a stande track of eight lanes, distribution of lanes and qualifying t subsequence round will be done as per standard rules for 100m, 200m, 400m run.",
+        
+        "The competitions will be held for the following events:",
+        
+        "MEN:<br/><ol><li>100<li>200<li>400<li>800<li>1500<li>5000<li>110m hurdles<li>400m hurdles<li>4* 100m Relays<li>4*400m Relays<li>Long jump<li>Triple jump<li>High jump<li>Pole vaul<li>Shot pu<li>Discuss throw<li>Hammer throw<li>Javelin throw</ol>",
+        
+        "WOMEN:<br/><ol><li>100<li>200<li>400<li>800<li>1500m<li>4* 100m Relay<li>4*400m Relay<li>Long jump<li>High jump<li>Shot put<li>Discuss throw<li>Hammer throw<li>Javelin throw</ol>",
+        
+        "The points for individual positions for I, II, III and IV are 5, 3, 2, 1 respectively For relay races, the points will be 10, 6, 4, 2 respectively The sum total of points secured in all the events in athletics by a college wil determine lst, 2nd and 3rd positions in Athletics." ,
+        
+        "Best athlete for both Male and Female will be decided by the maximum numbe of points obtained by an athlete in the Athletics championship. In case of a tie fo best athlete, the athlete who has broken the most number of meet records would be recognized. If the tie is still unresolved, award is given to the players havin better team category rank." ,
+        
+        "Certiﬁcate shall be awarded to the ﬁrst three places in all the athletic events Starter blocks and vaulting poles are not provided by organizing team." ,
+        
+        "In any event if there are less than 3 entries, that event will be considered a cancelled.",
+        
+        "In case of a tie for an individual event, points will be shared by both athletes an colleges as shown in the following table. In case of relay events the points will b double as the relay events have double weightage. If the number of tie players/teams are more than 4, 4 players/teams will be chosen by lot and the points distributed accordingly.",
+        
+        "<table><tr><th>Positions tied for<th colspan=3>No. of tied players/teams<tr><td> <td>2<td>3<td>4<tr><td>I<td>4.0<td>3.33<td>2.75<tr><td>II<td>2.5<td>2.0<td>1.5<tr><td>III<td>1.5<td>1.0<td>0.75<tr><td>IV<td>0.5<td>0.33<td>0.25</table>",
+         
+        "In case of tie for the Athletics Championship for men and women, points will be shared as shown in following tables. If the number of tied teams are more than 3, 3 teams will be chosen by lot and then points distributed accordingly.",
+        
+        "<table><tr><th>Positions tied for (Men)<th colspan=2>No. of tied teams<tr><td> <td>2<td>3<tr><td>I<td>16<td>12<tr><td>II<td>10<td>8<tr><td>III<td>6<td>3<tr><td>IV<td>2<td>1</table>",
+        
+        "<table><tr><th>Positions tied for (Women)<th colspan=2>No. of tied teams<tr><td> <td>2<td>3<tr><td>I<td>8<td>6<tr><td>II<td>5<td>4<tr><td>III<td>3<td>1<tr><td>IV<td>1<td>0</table>"
+    ],
     "hall": [
         "A",
         "B",

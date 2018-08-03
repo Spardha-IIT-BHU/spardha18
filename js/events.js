@@ -65,7 +65,7 @@ $("document").ready(function () {
         $('#rules').append('<h4>Rules</h4><ul class="tick"><li>'+data['rules'].join('</li><li>')+'</li></ul>');
         $('#hall').append('<h4>Hall of Fame</h4><ul class="star"><li>'+data['hall'].join('</li><li>')+'</ul>');
         $('#eventcontact').append('<h4>Contacts</h4>');
-        $('#eventcontact').append('<a class="btn btn--primary full-width" href="register.php">Register Now!</a>');
+        $('#eventcontact').append('<a class="btn btn-success btn-lg" href="register.php">Register Now!</a>');
 
         showAll();
 

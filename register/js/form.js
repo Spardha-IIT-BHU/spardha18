@@ -7,12 +7,23 @@ function showError(error){
     $("#error").html(error);
     $('html, body').stop().animate( parent.scrollTo(0,0), 1000);
 }
+
+$("document").ready(function () {
+$("#institute_name").on('change', function() {
+    if(this.selectedIndex==621) $('#other_institute_div').fadeIn();
+    else $('#other_institute_div').fadeOut();
+})
+});
 function validate(form){
     hideError();
     $("#error").html('');
     if(!$("form #terms").is(":checked")) return false;
     if($("form #institute_name option:selected").is(":disabled")){
         showError("Please select your institute.");
+        return false;
+    }
+    if($("form #institute_name").prop('selectedIndex')==621 && $("form #other_institute").val()==''){
+        showError("Please enter the name of your institute.");
         return false;
     }
     if($("form #name").val()==''){
@@ -42,8 +53,6 @@ function validate(form){
         opted+=$(this).attr("id")+",";
     });
     opted=opted.substring(0, opted.length-1);
-    $("form #institute_id").val($("form #institute_name")[0].selectedIndex+1);
     $("form #opted_events").val(opted);
-
     return true;
 }

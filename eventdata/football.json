@@ -1,11 +1,22 @@
 {
     "event-heading": "football",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+"Matches shall be played according to the rules of FIFA as adopted from time to time by the All India Football Federation unless otherwise modiﬁed.",
 
+"The duration of each match shall be 70 minutes (35-5-35). During the league stage, after the expiry of play-time, if the tie still persists, the points shall be shared equally.",
+
+"Every team shall submit a list of players, not exceeding 16, who may participate in the tournament. Not more than 16 certiﬁcates shall be awarded to a team.",
+
+"In the event of a draw at the end of a knockout game, no extra time will be alloted; we will directly go for penalty shootouts.",
+
+"The yellow cards given during the league stages won’t be counted further in knockout stages.",
+
+"A team will be awarded 3 points for a win, 1 for draw, and zero points for a lost match.",
+
+"In case of tie, goal differences (i.e. Goals FOR minus Goals AGAINST) of all the matches played by the team shall be considered. If the tie still persists, the number of goals ‘FOR’ throughout the tournament shall be considered: If tie still persists, number of goals ‘AGAINST’ throughout the tournament shall be considered."
+
+],
     "hall": [
         "A",
         "B",

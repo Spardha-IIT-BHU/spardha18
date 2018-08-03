@@ -25,30 +25,30 @@ $institute_name=$email=$phone=$opted_events=$error="";
 $check=2;
 if($_SERVER["REQUEST_METHOD"]=="POST"){
   $check=1;
-  $institute_id = mysqli_real_escape_string($conn, clean($_POST["institute_id"]));
-	$institute_name = mysqli_real_escape_string($conn, clean($_POST["institute_name"]));
+  if($_POST["other_institute"]!="") $institute_name = mysqli_real_escape_string($conn, clean($_POST["other_institute"]));
+  else $institute_name = mysqli_real_escape_string($conn, clean($_POST["institute_name"]));
+  $institute_name=strtoupper($institute_name);
   $name = mysqli_real_escape_string($conn, clean($_POST["name"]));
   $designation = mysqli_real_escape_string($conn, clean($_POST["designation"]));
 	$email = mysqli_real_escape_string($conn, clean($_POST["email"]));
 	$phone = mysqli_real_escape_string($conn, clean($_POST["phone"]));
   $opted_events = mysqli_real_escape_string($conn, clean($_POST["opted_events"]));
     
-  $query = "SELECT * FROM `registration2018` WHERE (`institute_id`=$institute_id or `email`='$email' or `phone`='$phone')";
+  $query = "SELECT * FROM `registration2018` WHERE (`institute_name`='$institute_name' or `email`='$email' or `phone`='$phone')";
   $result = mysqli_query($conn, $query) or die(mysql_error());
     $rows = mysqli_num_rows($result);
     if ($rows) {
       while($data = mysqli_fetch_row($result)){
         echo "<div id='error' class='alert alert-danger'>";
-        if($data[2]==$institute_id) echo $data[3]." has already registered.";
-        else if($data[6]==$email) echo "This email id is already used.";
-        else if($data[7]==$phone) echo "This phone number is already used.";
+        if($data[1]==$institute_name) echo $data[1]." has already registered.";
+        else if($data[4]==$email) echo "This email id is already used.";
+        else if($data[5]==$phone) echo "This phone number is already used.";
         else echo "Please enter valid data.";
+        }
         echo "</div>";
       }
-  }
   else{    
-      $registration_id="S18".sprintf("%03d", $institute_id);
-      $query = "INSERT INTO `registration2018`(`registration_id`, `institute_id`, `institute_name`, `name`, `designation`, `email`, `phone`, `opted_events`) VALUES ('$registration_id',$institute_id,'$institute_name', '$name', '$designation', '$email','$phone','$opted_events')";
+      $query = "INSERT INTO `registration2018`(`institute_name`, `name`, `designation`, `email`, `phone`, `opted_events`) VALUES ('$institute_name', '$name', '$designation', '$email','$phone','$opted_events')";
       $result = mysqli_query($conn, $query);
       if ($result) {
           include("success.php");
@@ -66,8 +66,11 @@ if($check){
       <div class="input-group input-group-icon">
         <select id="institute_name" name="institute_name"></select>
         <div class="input-icon"><i class="fa fa-graduation-cap"></i></div>
-        <input type="hidden" id="institute_id" name="institute_id" value="" />
       </div>
+      <div class="input-group input-group-icon" id="other_institute_div" style="display:none;">
+        <input type="text" placeholder="Institute Name" id="other_institute" name="other_institute" value="" />
+        <div class="input-icon"><i class="fa fa-building"></i></div>
+    </div>
       <div class="input-group input-group-icon">
         <input type="text" placeholder="Name" id="name" name="name" value="" />
         <div class="input-icon"><i class="fa fa-user"></i></div>

@@ -1,10 +1,19 @@
 {
     "event-heading": "hockey",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "Matches shall be played according to the rules of the FIH (Federation Internationale de Hockey) as adopted from time to time by the Indian Hockey Federation unless otherwise modiﬁed.",
+
+        "Game will consist of two teams of eleven players each. You can have ﬁve substitutes to be used throughout the game. You can be substituted at any time during a game except when a penalty stroke or a corner is being taken.",
+ 
+        "The tournament shall be played league cum knockout basis.",
+
+        "Each team must have a captain on the ﬁeld and they must wear a distinctive arm band.",
+
+        "Match will be of two half each 35 minutes long with a 5 minute break between two halves. The format is subject to change as per weather conditions or any other circumstances by the umpires.",
+
+        "No extra time will be allotted in case of tie; we will go with penalty shootout. In case of points clash for semi-ﬁnal matches the team who scored more number of goals will be considered. But if still the point score are level then committee member will decide."
+    ],
 
     "hall": [
         "A",

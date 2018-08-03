@@ -1,11 +1,45 @@
 {
     "event-heading": "basketball",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules" : ["The tournament will be conducted according to the International Basketball Federation(FIBA) rules as adopted from time to time by the Basketball Federation of India (BFI), unless otherwise modiﬁed.",
 
+        "The maximum team limit is 12 players.",
+        
+        "Each player is strictly required to bring and deposit their Udghosh as well as college ID cards at the table in order to play the match.",
+        
+        "A team member is entitled to play when his name has been entered on the score-sheet before the start of the game and as long as he has neither been disqualiﬁed nor committed ﬁve (5) fouls.",
+        
+        "Each team member shall wear a jersey numbered according to the international FIBA rules printed in a solid color contrasting with the color of the jersey.",
+        
+        "Only the coach is allowed to stand near the court with the team during their match. If a team does not have a coach, captain shall take the responsibility and no other person will be allowed on the court.",
+        
+        "If opponent teams are wearing similar coloured jerseys, team A will have to wear bibs.",
+        
+        "Any equipment that is designed to increase a player's height or reach or in any other way give an unfair advantage is not permitted. Also the equipments that can harm other players are also not allowed.",
+        
+        "All the matches will be played with multicoloured leather pasted balls.",
+        
+        "Only non marking shoes are allowed on the court.",
+        
+        "Game lost by forfeit:<br/>If the team is unable to ﬁeld ﬁve players till 10 minutes after the scheduled starting time of the game or if the team reﬁlses to play the match, then the match is awarded to the opponent by 20-0.<br/>NOTE: A team is supposed to report at the respective court 20 minutes before their match. The match will not be rescheduled in case of a common player in more than 1 sport.",
+        
+        "The captain shall, immediately at the end of the game, inform the referee if his team is protesting against the result of the game and sign the score sheet in the space marked “Captain’s signature” in case of protest.",
+        
+        "No practice slots shall be provided to any team. The court shall remain closed in the afternoon for cleaning purposes.",
+        
+        "The match shall start with a jump ball.",
+        
+        "Rules for Time Out:<br/><ul><li>Each time-out shall last one(1) minute.<li>A time-out opportunity begins when:<br/><ul style='list-style-type:square'><li>For both teams, the ball becomes dead, the game clock is stopped and the ofﬁcial has ended his communication with the scorer's table.<li> For both teams, the ball becomes dead following a successful last or only free throw.<li> For the non—scoring team, a ﬁeld goal is scored.</ul><li> Two (2) tirne-outs may be granted to each team at any time during the ﬁrst half; three (3) at any time during the second half and one (1) during each extra period. Unused time-outs may not be carried over to the next half or extra period.<li> A time-out shall not be permitted to the scoring team when the game clock shows 2:00 minutes or less of the fourth period and of each extra period and, following a successful ﬁeld goal unless an ofﬁcial has stopped the game.</ul>",
+        
+        "Rules for Tie-breakers<br/>On completion of the league matches, if two or more teams are on same points, then the tie shall be resolved as follows :<br/><ol><li>If two teams have same points in ﬁrst round then the head to head winner of the two teams will be considered eligible for the next round.<li> If all the three teams in the group have the same points then score difference of group matches will be calculated. If a team wins on match by 50-30 and losses other by 18-40 then its score difference will be (50+18)—(30+40) =—2. The team with highest positive score difference will qualify for the next round.<li> If the two teams have the same score difference and greater than the third one then head to head winner of the two teams will be considered eligible for the next round.<li> If all the three teams have the same score difference then the winner will be decided by lottery</ol>",
+        
+        "The team will have to take responsibility of any intentional damage caused on the court.",
+        
+        "Any new rule or a change in rules will be informed to the teams by the event coordinators prior to the beginning of match.",
+        
+        "In case of any discrepancy, the decision of referees shall be considered ﬁnal."
+    ],
+        
     "hall": [
         "A",
         "B",

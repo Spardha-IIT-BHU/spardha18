@@ -1827,10 +1827,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     text-align: center;
 }
 
+.home-content__buttons a {
+    font-size: 15pt;
+}
+
 .home-content__buttons .btn {
     width: 500px;
     border-color: #FFFFFF;
-    color: #FFFFFF;
+    background: #FFFFFF !important;
+    color: #555;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1838,13 +1843,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__buttons .btn:last-child {
+    background: #FFFFFF !important;
+    color: #555;
     margin-right: 0;
 }
 
 .home-content__buttons .btn:hover, 
 .home-content__buttons .btn:focus {
-    background: #FFFFFF !important;
-    color: #000000;
+    background: transparent !important;
+    color: #fff !important; 
 }
 
 .home-content__scroll {
@@ -2104,6 +2111,7 @@ html.no-csstransitions .home-content__main {
 }
 
 @media only screen and (max-width: 700px) {
+
     .home-content__main {
         max-width: 490px;
     }
@@ -2115,6 +2123,9 @@ html.no-csstransitions .home-content__main {
         display: block;
         width: auto;
         margin: 1.5rem 0 0 0;
+    }
+    .home-content__buttons a {
+        font-size: 12pt;
     }
     .home-social {
         right: 4rem;
@@ -2181,6 +2192,9 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 450px) {
     .home-content h1 {
         font-size: 3.3rem;
+    }
+    .home-content__buttons a {
+        font-size: 8pt;
     }
 }
 

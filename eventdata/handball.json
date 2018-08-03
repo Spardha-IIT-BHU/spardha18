@@ -1,11 +1,51 @@
 {
     "event-heading": "handball",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The tournament will be conducted according to the International Handball Federatio Rules as adopted from time to time by the Indian Handball Federation, unless otherwis modiﬁed.",
 
+        "The Playing Court: No one except the goalie is allowed to stand in the goal area. Th goal opening is 2 meters by 3 meters. Players may jump into the area if the ball i released before landing in the area.",
+        
+        "Number of Players: There are seven players on each team (six court players and on goalie). A maximum of 12 players may dress and participate in a game for each team.",
+
+        "Substitutes may enter the game at any time through own substitution area as long as th player they are replacing has left the court.",
+        
+        "Uniform of the Players: Player numbers are 1 to 20. Uniform shirts and shorts are th same color. The goalkeeper must wear a different color shirt from teammates an opponents. No jewelry is allowed.",
+        
+        "Referees: There are two referees, a court referee and a goal line referee. Referees hav complete authority: Their decisions are ﬁnal. The referees are assisted by a timer and  scorer.",
+        
+        "Duration of the Game: The game consists of 2, 30-minute halves with 5-minut half-time. This is running time except for injury or one team time-out per half. The team change benches at half—time. The game ends in a tie unless the game demands a winner.",
+        
+        "Passive Play: It is illegal to keep the ball in a team's possession without making  recognizable attempt to attack and to try to score. In other words, a team cannot stal (free-throw awarded to the other team).",
+        
+        "Throw-Off: A throw-off is taken by the team that wins the coin toss and chooses to star the game with the ball. Each team must be in its own half of the court with the defense  meters away from the ball. Following a whistle, the ball is passed from center court to  teammate and play begins. Throw-off is repeated after every goal scored and afte half-time.",
+        
+        "Scoring: A goal is scored when the entire ball crosses the goal line inside the goal.  goal may be scored from any throw (free-throw, throw-in, throw-off, goal-throw).",
+        
+        "Playing The Ball<br/>A player is allowed To run with the ball for 3 steps.<br/><ul><li>To hold the ball for 3 seconds.<li>Unlimited dribble with 3 steps allowed before and after dribbling (n double-dribble).</ul>",
+        
+        "A player is NOT allowed<br><ul><li>To endanger an opponent with the ball.<li>To pull, hit or punch the ball out of the hands of an opponent.<li>To contact the ball below the knee.<li>To dive on the ﬂoor for a rolling or stationary ball.</ul>",
+
+        "Defending the Opponent: A player is allowed to use the torso of the body to obstruct a opponent with or without the ball. However, using the outstretched arms or legs t obstruct, push, hold, trip or hit is NOT allowed. The attacking player is not allowed to charge into a defensive player.",
+
+        "Throw-In: A throw-in is awarded when ball goes out of bounds on the sideline or whe the ball is last touched by a defensive player (excluding the goalie) and goes out o bounds over the endline. The throw-in is taken from the spot where the ball crossed the sideline, or if it crossed the endline, from the nearest corner. The thrower must place on foot on the sideline to execute the throw. All opposing players must stay 3 meters away from the ball.",
+
+        "Referee Throw: A referee throw is awarded when the ball touches anything above the court after a simultaneous infringement of the rules after simultaneous possession of the ball. <br/>The Referee throws the ball vertically between two opposing players. The jumping players may grab the ball or tap it to a teammate. All other players must be  meters away from the throw. The referee throw is always taken at center court.",
+        
+        "Free-Throw: For a minor foul or Violation, a free-throw is awarded to the opponent at the exact spot it took place. If the foul or Violation occurs between the goal area line and the 9-meter line, the throw is taken from the nearest post outside the 9-meter line. The thrower must keep one foot in contact with the ﬂoor, then pass or shoot.",
+        
+        "7-Meter Throw: The 7-meter throw is awarded when<br/><ul><li>A foul destroys a clear chance to score<li>The goalie carries the ball back into his or her own goal area<li>A court player intentionally plays the ball to his or her own goalie in the goal area and th goalie touches the ball. A defensive player enters his or her goal area to gain an advantag over an attacking player in possession of the ball.<li>All players must be outside the free-throw line when the throw is taken. The player takin the throw has 3 seconds to shoot after referee's whistle. Any player may take the 7-mete throw.</ul>",
+        
+        "Goal—Throw: A goal—throw is awarded when <br/><ul><li>The ball rebounds off the goalkeeper over the endline.<li>The ball is thrown over the endline by the attacking team.<li>The goalie takes the throw inside the goal area and is not restricted by th 3-step/3-second rule.</ul>",
+        
+        "Progressive Punishments: Pertain to fouls that require more punishment than just a free-throw. 'Actions' directed mainly at the opponent and not the ball (such as reachin around, holding, pushing, hitting, tripping and jumping into an opponent) are to b punished progressively.",
+        
+        "Warnings (yellow card): The referee gives only one warning to a player for rule violations and a total of three to a team. Exceeding these limits results in 2-minut suspensions thereafter. Warnings are not required prior to giving out a 2-minut suspension. 2-minute suspensions awarded for <br/><ul><li>Serious or repeated rules violation. <li>Unsportsmanlike conduct <li>Illegal substitution. <li>The suspended player's team plays short for 2 minutes.",
+        
+        "Disqualiﬁcation and Exclusion (red card): A disqualiﬁcation is the equivalent of three, 2-minute suspensions. A disqualiﬁed player must leave court and bench, but the team ca replace player after the 2-minute suspension expires."
+        
+    ],
+    
     "hall": [
         "A",
         "B",

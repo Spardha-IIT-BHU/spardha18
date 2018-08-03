@@ -1,10 +1,25 @@
 {
     "event-heading": "table-tennis",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The rules of the tournament will be of the International Table Tennis Federation as adopted from time to time by the Table Tennis Federation of India shall apply unless otherwise modiﬁed.",
+
+        "There can be a maximum of 4 players and a minimum of 3 players in each team for men’s and maximum of 4 and minimum of 2 for women’s team. The team competition will follow a Group and Knockout (single elimination) format.",
+        
+        "If a player is not able to play a match due to injury he or she will forfeit the match but he or she can participate in his subsequent matches of the team match. If a player is not able to play, the team may continue the competition with two players",
+        
+        "Results for both men and women individuals will be best of 5 sets of 11 points. A team will win against the other team when the team has won a maj ority of the possible individual matches.",
+        
+        "The order of play shall be as follows:",
+        
+        "MEN:<br/><ul><li>Three players on one side are numbered A, B and C and the three players on the other side are numbered X, Y and Z.<li>The remaining matches (if necessary) will be set in a way to ensure that each player plays a maximum of two matches according to the following system:</ul><br/><table><tr><th>Order<th>Type<th>ABC team<th>XYZ team<tr><td>1<td>Singles<td>A<td>X<tr><td>2<td>Singles<td>B<td>Y<tr><td>3<td>Singles<td>C<td>Z<tr><td>4<td>Singles<td>A<td>Y<tr><td>5<td>Singles<td>B<td>X</table>",
+        
+        "WOMEN:<br/><ul><li>Matches will be held on the basis of two singles and one doubles.<li>The order of the play shall be as follows</ul><br/><table><tr><th>Order<th>Type<th>ABC team<th>XYZ team<tr><td><tr><td>1<td>Singles<td>A<td>X<tr><td>2<td>Doubles<td>Any 2 players<td>Any 2 players<tr><td>3<td>Singles<td>B<td>Y</table>",
+        
+        "The score standings, when the match is decided, shall be considered for the calculations indicated above. The tally for all matches played among the tied teams in the league ﬁxture will be considered.",
+        
+        "In case of tie during league stage:<br/><ul><li>In case of tie (in number of matches won) between two teams, the winner of the head-to-head match between them will proceed to the next round.<li>In case of tie between more than two teams, the difference of team score between each team will be considered (team with bigger margin would proceed to the next round). If tie still continues the difference in scoreline of each match would be considered for the decision.</ul>"        
+    ],
 
     "hall": [
         "A",

@@ -1,0 +1,46 @@
+{
+    "event-heading": "powerlifting",
+
+    "rules": [
+        "The competition will be held as per the International Powerlifting Federation Rules unles otherwise modiﬁed.",
+
+        "Athletes in the sport are divided in ﬁve weight classes and placing is based on the total weight",
+        
+        "lifted on the three main lifts:<br/><ol><li>Squat<li>Bench Press<li>Deadlift</ol>",
+        
+        "Five body weight categories:<br/>",
+        
+        "<table><tr><th>Weight categories<th>Male(in kg)<tr><td>I<td>Under 56<tr><td>II<td>56-62<tr><td>III<td>62-69<tr><td>IV<td>69-77<tr><td>V<td>Above 77</table>",
+        
+        "Each competitor is allowed three attempts on each lift. The lifter’s best valid attempt o each lift counts toward his competition total.",
+        
+        "Three referees judge the lift.",
+        
+        "If two or more lifters achieve the same total, the lighter lifter ranks above the heavie lifter.",
+        
+        "A good lift is signalled by indicating a white ﬂag, and an illegal one by a red ﬂag.",
+
+        "Once the highest value has been collected for each lift, the total weight lifted in squat, bench press and deadlift added up. The lifter with the highest combined weight lifts becomes the champion.",
+        
+        "In the case of a tie, then the lifter whose body weight is less becomes the champion.",
+        
+        "The weight of an athlete's ﬁrst lift determines their place in the starting order. If the choose to go for a light weight, they will go earlier in the order.",
+        
+        "Referee's decision will be last decision.",
+        
+        "Weighing of players will be started before 2 hour from competition .",
+        
+        "During the weighing player must mention his ﬁrst lift for squat , bench press an deadlift to referee .",
+        
+        "Player must come with proper kit during competition.",
+        
+        "A player can participate in only one category .",
+        
+        "In case of any controversy during competition and weighing judge’s decision wil consider as ﬁnal decision."
+    ],
+    "hall": [
+        "A",
+        "B",
+        "C"
+    ]
+}

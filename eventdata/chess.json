@@ -1,10 +1,33 @@
 {
     "event-heading": "chess",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The game is going to be played between 2 players from different teams (a team consists of 4 players who actually play in tournament and one extra). ",
+
+        "All the team members must belong to the same Institute . 4 players play agains the 4 players of their opponent team) on a chessboard. If a player from Team  wins against a player from Team B, then he gets 1 point for his team and if the end in a draw, both the players get 0.5 points for their team, to be added into th round points of the team. ",
+        
+        "At the end of each round, the winner team of each match will be given 1 poin while the other will be awarded a zero. The winner will be decided on the basis o the round points. If the round points of both the teams playing against each othe are the same, both the teams will be awarded 0.5 points. ",
+        
+        "For example, If team A playing against team B wins 3 out of 4 matches and lose 1(That is 3 of the players in team A win their matches), then it gains 3 roun points while team B gains 1. So, team A will be declared as the winner and will be awarded 1 point. ",
+        
+        "The points of the team as a whole will be considered for ranking and not that o individual players. ",
+        
+        "Tournament follows all competition Rules. ",
+        
+        "Act of Moving the Pieces: The movement of pieces is to be done with one hand. ",
+        
+        "Once the hand is taken off a piece after moving it, the move cannot be retracte unless the move is illegal. When castling, the player should ﬁrst move the kin with one hand and then move the rook with same hand. ",
+        
+        "Touch And Move Rule: If a player having the move touches one of their pieces a if having the intention of moving it, then the player must move it if it can b legally moved. So long as the hand has not left the piece on a new square, the piece can be placed on any accessible square. If a player touches one of th opponent’s piece, then that piece must be captured in that move. If none of th touched pieces can be moved or captured there is no penalty. However, A player, by ﬁrst declaring that he is going to adjust the pieces, may do so without the necessity to move that piece.",
+        "Timing: Tournament games may be played under time constraints, using Ches Clock. Each player must make the moves within the time controls or forfeit th game. Each player will get 1 hour to ﬁnish all his/her moves. The clock must b pressed using the same hand that is used to play the move. Hovering a han above the clock button is not allowed. Arbiters may decide to add a clock to an ongoing game . In that case the time allotted to each player is at the sole discretion of the arbiters/event coordinators.",
+        "Illegal Moves: If a player plays a move which, under the circumstances is no valid or legal, he will be given a warning by the Arbiter. On playing anothe illegal move in the same game, the player may be declared lost by the Arbiter.",
+        
+        "The Arbiter's decision shall be ﬁnal in case of any discrepancies.",
+        
+        "There will be no separate tournament for girls, but only a single tournament open to all.",
+    
+        "The Swiss System <br/><ul><li>In Swiss System tournaments, all players get to play all the rounds and no tw opponents face each other again. The opponents facing each other must be havin same points or nearly same points In this tournament, the team points shall b considered for pairing. <li>This method of ranking is tentative and might be subjected to slight modiﬁcation as per Arbiter decision. <li>Along with the rules mentioned above, all the rules outlined by FIDE fo tournaments shall be applicable. <li>The pairing of the Teams for a particular round will be done by Swiss System o Pairing as given above.</ul>"
+    ],
 
     "hall": [
         "A",

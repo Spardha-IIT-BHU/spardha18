@@ -1,11 +1,31 @@
 {
     "event-heading": "volleyball",
 
-    "rules": ["National, State or Provincial law enforcement, fire service or e.m.s. agencies may combine with members of the same agency from throughout the Country, State, or Province to form a team.",
-"Any Department/Detachment/Service with less than 100 eligible members may team up with another local members within the same State or Province, as long as there is no emphasis on selecting an “all-star” team. Games’ coordinators shall approve all team entries.",
-"Coaches: Non-playing coaches or managers who are not team members are not eligible to receive Games medals. Non-playing coaches are eligible to receive medals provided they meet the same requirements as all other entrants and register in the same manner, including entry fee.",
-"A Team must enter the classification of the youngest member of the team or the Open Classification. For example, a 3-Player Basketball Team has two members age 47 and one age 35. The team may enter either the Open Classification or the 35 Years & Over Classification but not both."],
+    "rules": [
+        "The rules of the International Volleyball Federation as adopted from time to time by the All India Volleyball Association shall apply, unless otherwise modiﬁed.",
 
+        "Each college must submit the list of players, not more than 12. The tournament shall be played league cum knockout basis. All the league matches shall be played on the best of 3 sets.",
+        
+        "Matches at the ﬁirther stages will be played on the best of 5 sets, of which the last set will be of 15 points.",
+        
+        "The following points system will be followed for the matches played on league basis.<br/><ol> <li>Match Won : 3 points <li>Match Lost : 0 point <li>Match abandoned : 1 point</ol>",
+        
+        "Any team refusing to play match without justiﬁcation will be eliminated from the competition and the results of the matches already played will be cancelled. ",
+        
+        "In case of teams having equal points the following equation will determine the ranking.<br/>C = Total number of sets won + Total number of sets lost<br/>The team with higher ratio “C” will be ranked higher.",
+        
+        "If the tie still remains, then the following system will be applied.<br/>Z = Total number of winning points + Total number of lost points<br/>The team with higher ratio “Z” will be ranked higher.",
+        
+        "If the tie still remains then the following procedure will be adopted.",
+        
+        "Two teams involved: precedence will be given to the team winning that match, in which they played against each other.",
+        
+        "In no circumstances extra match will be played to determine which team ranked higher. The tally of all matches played in the league ﬁxture will be considered.",
+        
+        "The general rules for Volleyball (Women) are the same. The game will be best of three sets.",
+        
+        "General Guidelines:<br/><ul><li>All participants need to come in proper kit -shorts (no three-fourths, denim short, tracks etc. are allowed). If any player does not come in proper kit or shoes, the player won’t be allowed to play the match. <li>Teams must bring their own adequate volleyballs for practice. No balls will be provided from the institute for practice. <li>Teams are allowed to cheer their player but there should not be any hooting or jeering against other teams’ players. <li>The decision of the referees and the umpires will be ﬁnal and binding. No protests would be entertained. Therefore, any team leaving the ﬁeld of play as a mark of protest and conceding a walk—over shall be deemed to have lost the ﬁxture and will be eliminated from rest of the event.</ul>"        
+    ],
     "hall": [
         "A",
         "B",
